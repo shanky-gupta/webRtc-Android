@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/appThemeColor</color>
+    <color name="colorPrimaryDark">@color/appTitleBarColor</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="icons_bg">#F8F8F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#a4c639</color>
+    <color name="lt_grey">#757575</color>
+    <color name="darkgrey">#444444</color>
+    <color name="blue">#007AFF</color>
+    <color name="transparent">@android:color/transparent</color>
+
+
+    <color name="appThemeColor">#ed1c24</color>
+    <color name="appTitleBarColor">#BC433F</color>
+</resources>
